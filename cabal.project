@@ -1,0 +1,4 @@
+packages: .
+
+-- Uncomment this if you want detailed build output:
+-- verbosity: verbose
